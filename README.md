@@ -2,6 +2,8 @@
 
 该项目的所有内容仅供参考，请遵守南京大学以及ICS课程的学术诚信要求，一切抄袭行为后果自负！
 
+最新的NJU-PA项目链接：https://nju-projectn.github.io/ics-pa-gitbook/ics2019/
+
 For students, DO NOT directly clone or download the code here, you will not be able to submit!
 
 The correct way:
